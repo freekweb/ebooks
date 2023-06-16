@@ -7,3 +7,38 @@ body {
   main {
     flex: 1 0 auto;
   }
+
+  #about{
+    text-indent: 60px;
+    text-align: justify;
+    font-size: 1.2rem;
+  }
+
+  #li li {
+    list-style-type: disc !important;
+    font-size: 1.2rem;
+  }
+
+  #alpha{
+    list-style-type: lower-alpha !important;
+    font-size: 1.2rem;
+  }
+
+  table, tr, th , td{
+    border-collapse: collapse;
+    border: 1px solid black;
+  }
+
+  td{
+    font-weight: bold;
+  }
+
+  #numeric{
+    list-style-type: numeric !important;
+    font-size: 1.2rem;
+  }
+
+  #ul li{
+    list-style-type: disc !important;
+    font-size: 1.2rem;
+  }
