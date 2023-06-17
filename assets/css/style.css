@@ -42,3 +42,10 @@ body {
     list-style-type: disc !important;
     font-size: 1.2rem;
   }
+
+  #box{
+    border: 1px solid black;
+    padding: 5px 5px 5px 5px;
+    border-width: thick;
+    text-align: center;
+  }
